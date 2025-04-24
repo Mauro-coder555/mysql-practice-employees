@@ -1,0 +1,1 @@
+-- Lista el nombre de los departamentos y el valor del presupuesto actual ordenado de forma ascendente.

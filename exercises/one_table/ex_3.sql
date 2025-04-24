@@ -1,0 +1,1 @@
+-- Lista todas las columnas de la tabla empleado.

@@ -1,0 +1,1 @@
+-- Devuelve una lista con el nombre y el gasto, de los 2 departamentos que tienen menor gasto.
